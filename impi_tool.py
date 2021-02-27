@@ -7,6 +7,8 @@ import pymysql
 
 
 # 华三服务器获取健康状态
+# 通过impitool工具来获取服务器的状态，并写入到mysql数据中
+# 只针对华三服务器
 # author: xspure
 # fuction：get hardware infomation by impitool
 
